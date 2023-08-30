@@ -1,0 +1,24 @@
+nav {
+   display: flex;
+   width: 1300px;
+   height: 70px;
+   border: 1px solid;
+   margin: 0 auto;
+}
+
+.nav-logo {
+   width: 70%;
+   height: 100%;
+   border: 1px solid;
+}
+
+.nav-list {
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 32px;
+   color: orange;
+   width: 30%;
+   height: 100%;
+   border: 1px solid;
+}
